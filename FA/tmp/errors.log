@@ -1,0 +1,893 @@
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:228: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Passing locale category name as string is deprecated. Use the LC_* -constants instead
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:228: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Invalid locale category name LC_MESSAGES, must be one of LC_ALL, LC_COLLATE, LC_CTYPE, LC_MONETARY, LC_NUMERIC, or LC_TIME
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:243: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Passing locale category name as string is deprecated. Use the LC_* -constants instead
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:243: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Invalid locale category name LC_MESSAGES, must be one of LC_ALL, LC_COLLATE, LC_CTYPE, LC_MONETARY, LC_NUMERIC, or LC_TIME
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:250: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Passing locale category name as string is deprecated. Use the LC_* -constants instead
+[26-Nov-2012 14:16:23] 0:admin:system_diagnostics.php:250: setlocale() [<a href='function.setlocale'>function.setlocale</a>]: Invalid locale category name LC_MESSAGES, must be one of LC_ALL, LC_COLLATE, LC_CTYPE, LC_MONETARY, LC_NUMERIC, or LC_TIME
+[28-Nov-2012 09:14:26] 0:admin:printer_class.inc:98: fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[28-Nov-2012 09:14:26] 0:admin:printer_class.inc:98: fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to tcp://server:515 (php_network_getaddresses: getaddrinfo failed: Host desconocido. )
+[28-Nov-2012 09:14:29] 0:admin:printer_class.inc:37: fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[28-Nov-2012 09:14:29] 0:admin:printer_class.inc:37: fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to tcp://server:515 (php_network_getaddresses: getaddrinfo failed: Host desconocido. )
+[02-Dec-2012 17:47:39] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Dec-2012 17:47:39] 0:admin:pdf_report.inc:18: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Dec-2012 17:47:39] 0:admin:pdf_report.inc:18: Declaration of FrontReport::Text() should be compatible with that of Cpdf::Text()
+[02-Dec-2012 17:47:39] 0:admin:pdf_report.inc:18: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Dec-2012 17:47:39] 0:admin:pdf_report.inc:18: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Dec-2012 17:47:39] 0:admin:pdf_report.inc:18: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[22-Dec-2012 17:43:47 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:43:47 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:43:47 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:20 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:20 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:20 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:48 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:48 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:46:48 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:51:51 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:51:51 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:51:51 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:52:34 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:52:34 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[22-Dec-2012 17:52:34 America/New_York] 0:admin:prn_redirect.php:91: require() [<a href='function.require'>function.require</a>]: Filename cannot be empty
+[09-Jan-2013 17:30:04 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Jan-2013 17:30:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Jan-2013 17:30:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Jan-2013 17:30:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Jan-2013 17:30:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Jan-2013 17:30:05 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:30:05 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:32:42 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:41:40 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Jan-2013 17:41:48 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Jan-2013 21:15:47 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Jan-2013 21:15:47 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Jan-2013 21:15:47 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Jan-2013 21:15:47 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Jan-2013 21:15:47 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Jan-2013 21:15:48 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Jan-2013 21:15:48 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Jan-2013 21:36:19 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Jan-2013 21:36:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Jan-2013 21:36:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Jan-2013 21:36:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Jan-2013 21:36:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Jan-2013 21:36:20 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Jan-2013 21:36:20 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[14-Jan-2013 17:03:41 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[15-Jan-2013 16:22:00 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[15-Jan-2013 16:22:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[15-Jan-2013 16:22:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[15-Jan-2013 16:22:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[15-Jan-2013 16:22:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[15-Jan-2013 16:22:01 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[15-Jan-2013 16:22:01 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:41:01 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:41:16 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:45:18 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:47:29 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:47:46 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:47:46 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:47:46 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:47:46 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:47:46 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:47:47 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:47:47 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:13 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:24 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[17-Jan-2013 21:49:33 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[23-Jan-2013 17:32:22 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[23-Jan-2013 17:32:22 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[23-Jan-2013 17:32:22 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[23-Jan-2013 17:32:22 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[23-Jan-2013 17:32:22 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[23-Jan-2013 17:32:23 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[23-Jan-2013 17:32:23 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[29-Jan-2013 20:11:19 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[29-Jan-2013 20:11:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[29-Jan-2013 20:11:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[29-Jan-2013 20:11:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[29-Jan-2013 20:11:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[29-Jan-2013 20:11:20 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[29-Jan-2013 20:11:20 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[01-Feb-2013 20:21:09 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[01-Feb-2013 20:21:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[01-Feb-2013 20:21:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[01-Feb-2013 20:21:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[01-Feb-2013 20:21:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[01-Feb-2013 20:21:10 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[01-Feb-2013 20:21:10 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 09:35:17 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Feb-2013 09:35:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Feb-2013 09:35:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Feb-2013 09:35:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Feb-2013 09:35:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Feb-2013 09:35:18 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 09:35:18 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 09:39:17 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Feb-2013 09:39:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Feb-2013 09:39:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Feb-2013 09:39:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Feb-2013 09:39:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Feb-2013 09:39:18 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 09:39:18 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:04:05 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Feb-2013 10:04:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Feb-2013 10:04:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Feb-2013 10:04:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Feb-2013 10:04:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Feb-2013 10:04:06 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:04:06 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:18:37 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Feb-2013 10:18:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Feb-2013 10:18:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Feb-2013 10:18:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Feb-2013 10:18:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Feb-2013 10:18:38 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:18:38 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:24:38 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Feb-2013 10:24:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Feb-2013 10:24:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Feb-2013 10:24:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Feb-2013 10:24:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Feb-2013 10:24:39 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Feb-2013 10:24:39 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[04-Feb-2013 21:32:10 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[06-Feb-2013 22:12:28 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 22:56:39 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 22:59:51 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Feb-2013 23:00:05 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[15-Feb-2013 21:59:36 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[15-Feb-2013 21:59:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[15-Feb-2013 21:59:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[15-Feb-2013 21:59:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[15-Feb-2013 21:59:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[15-Feb-2013 21:59:37 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[15-Feb-2013 21:59:37 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[18-Feb-2013 20:43:11 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[18-Feb-2013 20:43:11 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[18-Feb-2013 20:43:11 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[18-Feb-2013 20:43:11 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[18-Feb-2013 20:43:11 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[18-Feb-2013 20:43:12 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[18-Feb-2013 20:43:12 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[27-Feb-2013 21:05:57 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[27-Feb-2013 21:05:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[27-Feb-2013 21:05:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[27-Feb-2013 21:05:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[27-Feb-2013 21:05:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[27-Feb-2013 21:05:58 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[27-Feb-2013 21:05:58 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[01-Mar-2013 19:58:20 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[01-Mar-2013 19:58:20 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[01-Mar-2013 19:58:20 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[01-Mar-2013 19:58:20 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[01-Mar-2013 19:58:20 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[01-Mar-2013 19:58:21 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[01-Mar-2013 19:58:21 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 21:32:19 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[04-Mar-2013 21:32:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[04-Mar-2013 21:32:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[04-Mar-2013 21:32:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[04-Mar-2013 21:32:19 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[04-Mar-2013 21:32:20 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 21:32:20 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:30:10 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:31:03 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[04-Mar-2013 22:31:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[04-Mar-2013 22:31:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[04-Mar-2013 22:31:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[04-Mar-2013 22:31:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[04-Mar-2013 22:31:04 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:31:04 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[04-Mar-2013 22:59:55 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 18:44:27 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 18:44:27 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 18:44:27 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 18:44:27 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 18:44:27 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 18:44:28 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 18:44:28 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:04:30 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:17:02 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:24:52 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:25:51 America/New_York] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 19:25:58 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 21:00:02 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 21:00:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 21:00:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 21:00:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 21:00:02 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 21:00:03 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 21:00:03 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 21:11:21 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[05-Mar-2013 21:11:21 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[05-Mar-2013 21:11:21 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[05-Mar-2013 21:11:21 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[05-Mar-2013 21:11:21 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[05-Mar-2013 21:11:22 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[05-Mar-2013 21:11:22 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[06-Mar-2013 20:19:26 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:52:52 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:52:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:52:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:52:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:52:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:52:53 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:52:53 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:53:35 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:54:29 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:56:40 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:56:56 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 19:59:49 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:02:01 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 20:02:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 20:02:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 20:02:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 20:02:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 20:02:02 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:02:02 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:03:39 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 20:03:39 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 20:03:39 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 20:03:39 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 20:03:39 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 20:03:40 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:03:40 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:08:12 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 20:08:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 20:08:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 20:08:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 20:08:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 20:08:13 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:08:13 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:16:05 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:17:00 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 20:17:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 20:17:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 20:17:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 20:17:00 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 20:17:01 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 20:17:01 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:33:56 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:37:45 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:40:58 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[07-Mar-2013 21:40:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[07-Mar-2013 21:40:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[07-Mar-2013 21:40:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[07-Mar-2013 21:40:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[07-Mar-2013 21:40:59 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[07-Mar-2013 21:40:59 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 20:38:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 20:38:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 20:38:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 20:38:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 20:38:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 20:38:57 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 20:38:57 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:29:37 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 21:29:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 21:29:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 21:29:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 21:29:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 21:29:39 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:29:39 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:31:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 21:31:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 21:31:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 21:31:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 21:31:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 21:31:57 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:31:57 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:40:17 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:47:04 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:47:12 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Mar-2013 21:47:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Mar-2013 21:47:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Mar-2013 21:47:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Mar-2013 21:47:12 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Mar-2013 21:47:13 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Mar-2013 21:47:13 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[12-Mar-2013 21:17:31 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[13-Mar-2013 20:04:32 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[13-Mar-2013 20:04:56 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[18-Mar-2013 20:48:35 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[18-Mar-2013 20:49:53 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[18-Mar-2013 20:49:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[18-Mar-2013 20:49:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[18-Mar-2013 20:49:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[18-Mar-2013 20:49:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[18-Mar-2013 20:49:54 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[18-Mar-2013 20:49:54 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[23-Mar-2013 13:16:45 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[23-Mar-2013 13:33:42 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[23-Mar-2013 13:33:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[23-Mar-2013 13:33:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[23-Mar-2013 13:33:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[23-Mar-2013 13:33:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[23-Mar-2013 13:33:44 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[23-Mar-2013 13:33:44 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[26-Mar-2013 21:05:05 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[26-Mar-2013 21:05:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[26-Mar-2013 21:05:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[26-Mar-2013 21:05:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[26-Mar-2013 21:05:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[26-Mar-2013 21:05:06 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[26-Mar-2013 21:05:06 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[26-Mar-2013 21:07:08 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:05:13 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[27-Mar-2013 21:05:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[27-Mar-2013 21:05:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[27-Mar-2013 21:05:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[27-Mar-2013 21:05:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[27-Mar-2013 21:05:14 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:05:14 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:34:15 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:36:42 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[27-Mar-2013 21:36:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[27-Mar-2013 21:36:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[27-Mar-2013 21:36:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[27-Mar-2013 21:36:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[27-Mar-2013 21:36:43 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[27-Mar-2013 21:36:43 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[28-Mar-2013 16:14:03 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[28-Mar-2013 16:41:57 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 18:59:23 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 19:49:48 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Apr-2013 19:49:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Apr-2013 19:49:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Apr-2013 19:49:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Apr-2013 19:49:48 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Apr-2013 19:49:49 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 19:49:49 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:13:46 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:14:31 America/New_York] 0:joel:date_functions.inc:233: mktime() expects parameter 4 to be long, string given
+[02-Apr-2013 21:34:10 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Apr-2013 21:34:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Apr-2013 21:34:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Apr-2013 21:34:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Apr-2013 21:34:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Apr-2013 21:34:11 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:34:11 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:50:42 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-Apr-2013 21:50:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-Apr-2013 21:50:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-Apr-2013 21:50:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-Apr-2013 21:50:42 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-Apr-2013 21:50:43 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-Apr-2013 21:50:43 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 17:50:10 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 17:53:35 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:18:06 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:19:01 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 19:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 19:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 19:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 19:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 19:19:02 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:19:02 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:20:01 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[03-Apr-2013 19:21:05 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[08-Apr-2013 19:23:05 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[08-Apr-2013 19:23:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[08-Apr-2013 19:23:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[08-Apr-2013 19:23:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[08-Apr-2013 19:23:05 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[08-Apr-2013 19:23:06 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[08-Apr-2013 19:23:06 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[08-Apr-2013 20:43:30 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[08-Apr-2013 20:43:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[08-Apr-2013 20:43:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[08-Apr-2013 20:43:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[08-Apr-2013 20:43:30 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[08-Apr-2013 20:43:32 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[08-Apr-2013 20:43:32 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 20:52:53 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 20:52:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 20:52:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 20:52:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 20:52:53 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 20:52:54 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 20:52:54 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 20:55:17 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:46:33 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:46:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:46:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:46:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:46:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:46:35 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:46:35 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:13 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:54:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:54:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:54:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:54:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:54:14 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:14 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:16 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:54:26 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:55:09 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:55:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:55:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:55:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:55:09 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:55:10 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:55:10 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:56:52 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[09-Apr-2013 21:56:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[09-Apr-2013 21:56:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[09-Apr-2013 21:56:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[09-Apr-2013 21:56:52 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[09-Apr-2013 21:56:53 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[09-Apr-2013 21:56:53 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-Apr-2013 21:54:38 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:20:38 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:21:58 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[13-Apr-2013 20:21:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[13-Apr-2013 20:21:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[13-Apr-2013 20:21:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[13-Apr-2013 20:21:58 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[13-Apr-2013 20:21:59 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:21:59 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[13-Apr-2013 20:22:34 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[15-Apr-2013 19:00:13 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[20-Apr-2013 16:33:34 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[20-Apr-2013 16:33:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[20-Apr-2013 16:33:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[20-Apr-2013 16:33:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[20-Apr-2013 16:33:34 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[20-Apr-2013 16:33:35 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[20-Apr-2013 16:33:35 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[22-Apr-2013 20:34:56 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[22-Apr-2013 20:34:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[22-Apr-2013 20:34:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[22-Apr-2013 20:34:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[22-Apr-2013 20:34:56 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[22-Apr-2013 20:34:57 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[22-Apr-2013 20:34:57 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[30-Apr-2013 22:31:36 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[30-Apr-2013 22:31:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[30-Apr-2013 22:31:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[30-Apr-2013 22:31:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[30-Apr-2013 22:31:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[30-Apr-2013 22:31:37 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[30-Apr-2013 22:31:37 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[30-Apr-2013 23:20:36 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[30-Apr-2013 23:20:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[30-Apr-2013 23:20:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[30-Apr-2013 23:20:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[30-Apr-2013 23:20:36 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[30-Apr-2013 23:20:38 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[30-Apr-2013 23:20:38 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 16:49:33 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-May-2013 16:49:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-May-2013 16:49:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-May-2013 16:49:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-May-2013 16:49:33 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-May-2013 16:49:33 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 16:49:33 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:13:50 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-May-2013 17:13:50 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-May-2013 17:13:50 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-May-2013 17:13:50 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-May-2013 17:13:50 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-May-2013 17:13:51 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:13:51 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:19:01 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-May-2013 17:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-May-2013 17:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-May-2013 17:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-May-2013 17:19:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-May-2013 17:19:02 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:19:02 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:23:04 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[02-May-2013 17:23:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[02-May-2013 17:23:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[02-May-2013 17:23:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[02-May-2013 17:23:04 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[02-May-2013 17:23:05 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[02-May-2013 17:23:05 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 20:49:17 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-May-2013 20:49:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-May-2013 20:49:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-May-2013 20:49:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-May-2013 20:49:17 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-May-2013 20:49:20 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 20:49:20 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:11:37 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-May-2013 21:11:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-May-2013 21:11:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-May-2013 21:11:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-May-2013 21:11:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-May-2013 21:11:37 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:11:37 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:19:28 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-May-2013 21:19:28 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-May-2013 21:19:28 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-May-2013 21:19:28 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-May-2013 21:19:28 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-May-2013 21:19:28 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:19:28 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:19:37 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-May-2013 21:19:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-May-2013 21:19:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-May-2013 21:19:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-May-2013 21:19:37 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-May-2013 21:19:37 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-May-2013 21:19:37 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 16:00:01 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[11-May-2013 16:00:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[11-May-2013 16:00:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[11-May-2013 16:00:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[11-May-2013 16:00:01 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[11-May-2013 16:00:01 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 16:00:01 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 17:58:57 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[11-May-2013 17:58:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[11-May-2013 17:58:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[11-May-2013 17:58:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[11-May-2013 17:58:57 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[11-May-2013 17:58:57 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 17:58:57 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 17:59:25 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[11-May-2013 17:59:25 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[11-May-2013 17:59:25 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[11-May-2013 17:59:25 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[11-May-2013 17:59:25 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[11-May-2013 17:59:25 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 17:59:25 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 18:00:07 America/New_York] 0:joel:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[11-May-2013 18:00:07 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[11-May-2013 18:00:07 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[11-May-2013 18:00:07 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[11-May-2013 18:00:07 America/New_York] 0:joel:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[11-May-2013 18:00:07 America/New_York] 0:joel:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[11-May-2013 18:00:07 America/New_York] 0:joel:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:class.pdf.inc:63: Declaration of Cpdf::ellipse() should be compatible with that of TCPDF::Ellipse()
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:pdf_report.inc:19: Declaration of FrontReport::Line() should be compatible with that of Cpdf::line()
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetDrawColor() should be compatible with that of TCPDF::SetDrawColor()
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetFillColor() should be compatible with that of TCPDF::SetFillColor()
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:pdf_report.inc:19: Declaration of FrontReport::SetTextColor() should be compatible with that of TCPDF::SetTextColor()
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:tcpdf.php:4509: Function set_magic_quotes_runtime() is deprecated
+[10-Sep-2013 08:45:29 America/Chicago] 0:admin:tcpdf.php:4539: Function set_magic_quotes_runtime() is deprecated
